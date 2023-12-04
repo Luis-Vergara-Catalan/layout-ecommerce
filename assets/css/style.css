@@ -111,8 +111,8 @@ a{
 }
 
 .tarjeta img{
-  height: 17rem;
-  width: 31rem;
+  height: 100%;
+  width: 100%;
   flex-basis: 70%;
 }
 
